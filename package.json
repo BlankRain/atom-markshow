@@ -1,7 +1,7 @@
 {
   "name": "atom-markshow",
   "main": "./lib/atom-markshow",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A atom package for markshow",
   "keywords": [
     "atom-markshow"
